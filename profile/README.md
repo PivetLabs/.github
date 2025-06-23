@@ -15,6 +15,6 @@ We're building a national network of AI-powered innovation hubs starting in Gree
 
 🌐 [Website](https://pivetlabs.org)  
 📅 [Events Calendar](#)  
-📬 [Contact Us](mailto:hello@pivetlabs.org)
+📬 [Contact Us](mailto:admin@pivetlabs.org)
 
 Let’s build the future, together.
